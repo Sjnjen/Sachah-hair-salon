@@ -1,0 +1,1 @@
+{"name":"salon-booking","version":"1.0.0","private":true,"type":"commonjs","scripts":{"start":"node server.js","test":"node test.js"},"engines":{"node":">=22.13"},"dependencies":{"express":"^4.21.2","nodemailer":"^6.9.16"}}
